@@ -3,7 +3,7 @@
 - 🔭 I'm currently a student at [Phenikaa University]
 - 🌱 I'm currently learning everything 🤣
 - 👯 I'm looking to collaborate with other content creators
-- ⚡ Fun fact: I love see ... a lot
+- ⚡ Fun fact: I love see ... every thing
 
 <br />
 
