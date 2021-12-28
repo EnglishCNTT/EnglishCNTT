@@ -3,23 +3,23 @@
 - 🔭 I'm currently a student at [Phenikaa University]
 - 🌱 I'm currently learning everything 🤣
 - 👯 I'm looking to collaborate with other content creators
-- ⚡ Fun fact: I love share ... a lot
+- ⚡ Fun fact: I love see ... a lot
 
 <br />
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31bvg3wront7ddphslihvvtofufa)
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ncivibv3phbekrh3ttbnb7c5qy)
 
-<!-- [<img src="https://becongspotify-git-master.phamtienthanhcong.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />] -->
+
 
 ---
 
 
 ### Connect with me:
-[<img align="left" alt="PhamTienThanhCong | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" />][facebook]
-[<img align="left" alt="PhamTienThanhCong | Zalo" width="22px" src="https://www.anphatpc.com.vn/template/anphat_2020v2/images/icon-zalo.jpg" />][zalo]
-[<img align="left" alt="PhamTienThanhCong | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
-[<img align="left" alt="PhamTienThanhCong | tiktok" width="22px" src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" />][tiktok]
+[<img align="left" alt="NgocEnglish | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" />][facebook]
+[<img align="left" alt="NgocEnglish | Zalo" width="22px" src="https://www.anphatpc.com.vn/template/anphat_2020v2/images/icon-zalo.jpg" />][zalo]
+[<img align="left" alt="NgocEnglish | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
+[<img align="left" alt="NgocEnglish | tiktok" width="22px" src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" />][tiktok]
 
 <br />
 
@@ -48,7 +48,7 @@
 ```text
 Week: 20 December, 2021 - 26 December, 2021
 
-HTML   8 mins          █████████████████████████   100.00 % 
+HTML   999 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -56,15 +56,15 @@ HTML   8 mins          ███████████████████
 
 ### GitHub Stats Card
 
-| <a href="https://github.com/phamtienthanhcong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PhamTienThanhCong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=ocean_dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/phamtienthanhcong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamTienThanhCong&layout=compact&theme=buefy&hide_border=true&theme=ocean_dark" /></a> |
+| <a href="https://github.com/englishcntt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=englishcntt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=ocean_dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/englishcntt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=englishcntt&layout=compact&theme=buefy&hide_border=true&theme=ocean_dark" /></a> |
 | ------------- | ------------- |
 
 [Phenikaa University]: https://phenikaa-uni.edu.vn/vi
-[facebook]: https://www.facebook.com/phamtienthanhcong
-[linkedin]: linkedin.com/in/phamtienthanhcong 
-[zalo]: https://zalo.me/0396396332
-[tiktok]: https://www.tiktok.com/@phamtienthanhcong
-[web]: https://github.com/PhamTienThanhCong/web_dev
-[min project]: https://github.com/PhamTienThanhCong/Project-Of-Web
-[c and cpp]: https://github.com/PhamTienThanhCong/Code_C_and_Cpro
-[python]: https://github.com/PhamTienThanhCong/Python_beginer
+[facebook]: https://www.facebook.com/englishit4
+[linkedin]: linkedin.com/in/englishcntt
+[zalo]: https://zalo.me/0865089202
+[tiktok]: https://www.tiktok.com/@englishit
+[web]: https://github.com/englishcntt
+[min project]: https://github.com/englishcntt
+[c and cpp]: https://github.com/englishcntt
+[python]: https://github.com/englishcntt
