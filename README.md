@@ -17,9 +17,10 @@
 
 ### Connect with me:
 [<img align="left" alt="NgocEnglish | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" />][facebook]
-[<img align="left" alt="NgocEnglish | Zalo" width="22px" src="https://www.anphatpc.com.vn/template/anphat_2020v2/images/icon-zalo.jpg" />][zalo]
+[
+<img align="left" alt="NgocEnglish | Zalo" width="22px" src="https://www.anphatpc.com.vn/template/anphat_2020v2/images/icon-zalo.jpg" />][zalo]
 [<img align="left" alt="NgocEnglish | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
-[<img align="left" alt="NgocEnglish | Tiktok" width="22px" src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" />][tiktok]
+[<img align="left" alt="NgocEnglish | Tiktok" width="22px" src="https://cdn.cdnlogo.com/logos/t/46/tiktok-icon-black.svg" />][tiktok]
 
 <br />
 
