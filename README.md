@@ -1,9 +1,9 @@
 ### Hi Friends
 
 - 🔭 I'm currently a student at [Phenikaa University]
-- 🌱 I'm currently learning everything 🤣
-- 👯 I'm looking to collaborate with other content creators
-- ⚡ Fun fact: I love see ... everything
+- ⚡ I'm interested in learning everything 
+- ⚡ Start where you are. Use what you have. Do what you can.
+- ⚡ To me, the most important thing in life is family
 
 <br />
 
@@ -19,7 +19,7 @@
 [<img align="left" alt="NgocEnglish | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" />][facebook]
 [<img align="left" alt="NgocEnglish | Zalo" width="22px" src="https://www.anphatpc.com.vn/template/anphat_2020v2/images/icon-zalo.jpg" />][zalo]
 [<img align="left" alt="NgocEnglish | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />][linkedin]
-[<img align="left" alt="NgocEnglish | tiktok" width="22px" src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" />][tiktok]
+[<img align="left" alt="NgocEnglish | Tiktok" width="22px" src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" />][tiktok]
 
 <br />
 
