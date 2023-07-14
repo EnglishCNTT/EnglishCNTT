@@ -58,7 +58,7 @@ HTML   999 mins          ██████████████████�
 ---
 
 ### GitHub Stats Card
-
+![](https://github-readme-stats.vercel.app/api?username=EnglishCNTT&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 | <a href="https://github.com/englishcntt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=englishcntt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=ocean_dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/englishcntt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=englishcntt&layout=compact&theme=buefy&hide_border=true&theme=ocean_dark" /></a> |
 | ------------- | ------------- |
 
