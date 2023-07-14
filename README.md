@@ -63,7 +63,7 @@ HTML   999 mins          ██████████████████�
 [facebook]: https://www.facebook.com/englishit4
 [linkedin]: linkedin.com/in/englishcntt
 [zalo]: https://zalo.me/0865089202
-[tiktok]: https://www.tiktok.com/@englishit
+[tiktok]: https://www.tiktok.com/@englishit4
 [web]: https://github.com/englishcntt
 [min project]: https://github.com/englishcntt
 [c and cpp]: https://github.com/englishcntt
