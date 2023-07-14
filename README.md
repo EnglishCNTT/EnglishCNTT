@@ -3,7 +3,7 @@
 - 🔭 I'm currently a student at [Phenikaa University]
 - ⚡ I'm interested in learning everything 
 - ⚡ Start where you are. Use what you have. Do what you can.
-- ⚡ To me, the most important thing in life is family
+- ⚡ To me, the most important thing in my life is family
 
 <br />
 
