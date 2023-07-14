@@ -43,18 +43,6 @@
 
 ---
 
-### Time code
-
-<!--START_SECTION:waka-->
-```text
-Week: 20 December, 2021 - 26 December, 2021
-
-HTML   999 mins          █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
-
----
-
 ### GitHub Stats Card
 | <a href="https://github.com/englishcntt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=englishcntt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=ocean_dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/englishcntt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=englishcntt&layout=compact&theme=buefy&hide_border=true&theme=ocean_dark" /></a> |
 | ------------- | ------------- |
@@ -62,8 +50,6 @@ HTML   999 mins          ██████████████████�
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EnglishCNTT&icon=0&color=0)](https://visitcount.itsvg.in)
