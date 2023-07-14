@@ -59,6 +59,15 @@ HTML   999 mins          ██████████████████�
 | <a href="https://github.com/englishcntt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=englishcntt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&theme=ocean_dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/englishcntt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=englishcntt&layout=compact&theme=buefy&hide_border=true&theme=ocean_dark" /></a> |
 | ------------- | ------------- |
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=EnglishCNTT&icon=0&color=0)](https://visitcount.itsvg.in)
+
 [Phenikaa University]: https://phenikaa-uni.edu.vn/vi
 [facebook]: https://www.facebook.com/englishit4
 [linkedin]: linkedin.com/in/englishcntt
