@@ -45,6 +45,8 @@
 
 ### Time code
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnglishCNTT&repo=github-readme-stats)](https://github.com/EnglishCNTT/github-readme-stats)
+
 <!--START_SECTION:waka-->
 ```text
 Week: 20 December, 2021 - 26 December, 2021
